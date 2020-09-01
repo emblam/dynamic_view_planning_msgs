@@ -1,0 +1,6 @@
+# Request IG-calculation
+string ig_id
+geometry_msgs/TransformStamped position
+ufomap_msgs/Ufomap map
+--- 
+float64 ig
